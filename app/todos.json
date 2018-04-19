@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id":1,
+      "title": "Vivian Greene",
+      "description": "Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain."
+    },
+    {
+      "id":2,
+      "title": "Maya Angelou",
+      "description": "Still, like air, I rise."
+    },
+    {
+      "id":3,
+      "title": "Confucius",
+      "description": "Our greatest glory is not in never falling, but in rising every time we fall."
+    }
+  ]
+}
